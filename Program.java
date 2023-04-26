@@ -39,6 +39,7 @@ public class Program {
                     result[i] = arr1[i] / arr2[i];
                 }
             }
+            printArr(result);
         }
     }
 
